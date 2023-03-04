@@ -1,0 +1,4 @@
+﻿  week3_예제.cpp
+C:\Users\user\Desktop\C++ 1-2\week3_예제\week3_예제.cpp(17,19): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\user\Desktop\C++ 1-2\week3_예제\week3_예제.cpp(19,19): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  week3_예제.vcxproj -> C:\Users\user\Desktop\C++ 1-2\week3_예제\x64\Debug\week3_예제.exe
